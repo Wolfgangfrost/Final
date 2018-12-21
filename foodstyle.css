@@ -1,0 +1,30 @@
+body{
+
+font-family: arial;
+Font-size: 14px
+    font-size: 24px;
+}
+}
+h1 {
+    color: yellow;
+
+}
+body {
+    background: white url(https://st2.depositphotos.com/2746515/7466/v/950/depositphotos_74664677-stock-illustration-vector-ice-cream-background.jpg) repeat top right;
+}
+P {
+
+    font-size:20px 
+}
+.Active{
+    border-style: solid;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: black;
+  }
+  li {
+      color: Yellow;
+      font-size: 30px
+
+  }
